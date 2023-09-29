@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @andydluna
 - 👀 I’m interested in puting on practice my coding skills.
-- 🌱 I’m currently learning more about C++.
-- 💞️ I’m looking to collaborate on projects to help me get real experience.
-- 📫 How to reach me Anlex#6836 on discord. 
+- 🌱 I’m currently learning more about Python and C++.
+- 💞️ I’m looking to collaborate on projects to help me get real experience, and find my first internship!.
+- 📫 How to reach me anlex on discord. 
 
 <!---
 andydluna/andydluna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
